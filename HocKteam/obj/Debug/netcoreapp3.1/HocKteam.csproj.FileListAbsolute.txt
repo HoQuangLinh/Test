@@ -1,0 +1,13 @@
+D:\hocC#\HocKteam\obj\Debug\netcoreapp3.1\HocKteam.csprojAssemblyReference.cache
+D:\hocC#\HocKteam\obj\Debug\netcoreapp3.1\HocKteam.AssemblyInfoInputs.cache
+D:\hocC#\HocKteam\obj\Debug\netcoreapp3.1\HocKteam.AssemblyInfo.cs
+D:\hocC#\HocKteam\obj\Debug\netcoreapp3.1\HocKteam.csproj.CoreCompileInputs.cache
+D:\hocC#\HocKteam\bin\Debug\netcoreapp3.1\HocKteam.exe
+D:\hocC#\HocKteam\bin\Debug\netcoreapp3.1\HocKteam.deps.json
+D:\hocC#\HocKteam\bin\Debug\netcoreapp3.1\HocKteam.runtimeconfig.json
+D:\hocC#\HocKteam\bin\Debug\netcoreapp3.1\HocKteam.runtimeconfig.dev.json
+D:\hocC#\HocKteam\bin\Debug\netcoreapp3.1\HocKteam.dll
+D:\hocC#\HocKteam\bin\Debug\netcoreapp3.1\HocKteam.pdb
+D:\hocC#\HocKteam\obj\Debug\netcoreapp3.1\HocKteam.dll
+D:\hocC#\HocKteam\obj\Debug\netcoreapp3.1\HocKteam.pdb
+D:\hocC#\HocKteam\obj\Debug\netcoreapp3.1\HocKteam.genruntimeconfig.cache
